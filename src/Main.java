@@ -6,7 +6,7 @@ public class Main {
         s1.setUsername("ErCrasher");
         s1.setEmail("francescograuso@live.it");
         s1.setCF("GRSFNC02M27M28B");
-
+//a
         System.out.println(s1.getName());
         System.out.println(s1.getSurname());
         System.out.println(s1.getUsername());
